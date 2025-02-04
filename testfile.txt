@@ -1,1 +1,2 @@
+Hello, this is ssh base connection
 This is the text file in the test repo
